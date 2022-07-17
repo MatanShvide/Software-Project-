@@ -3,8 +3,9 @@ C&amp;Python interface
 Second (not final) stage in my software project for the second semester in my second year in Tel Aviv Univrsity.
 
 Task:
-1.Execute the Kmeans algorithm in C
 
-2.Create a pyhton interface which sends k centroids chosen by the K++ algorithm to your Kmeans Algorithm in the C file
+Execute the Kmeans algorithm in C
 
-3.Out put the final centroids chosen by Kmeans through you Python file
+Create a pyhton interface which sends k centroids chosen by the K++ algorithm to your Kmeans Algorithm in the C file
+
+Out put the final centroids chosen by Kmeans through you Python file
